@@ -22,7 +22,7 @@ not displayed. The information between the BODY and /BODY tags is displayed.-->
 Break up your page with a horizontal rule or two. </p>
 
 <h2>HTML Image</h2>
-<img src="graph_1.png" alt="Girl in a jacket" >
+<img src="graph_2.png" alt="Girl in a jacket" >
 
 
 <hr>
@@ -31,3 +31,4 @@ Break up your page with a horizontal rule or two. </p>
 <p>&#169; Wiley Publishing, 2011</p>
 </body>
 </html>
+
