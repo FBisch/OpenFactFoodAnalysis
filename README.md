@@ -20,6 +20,11 @@ not displayed. The information between the BODY and /BODY tags is displayed.-->
 <p><img src="http://www.mygifs.com/CoverImage.gif" alt="A Great HTML Resource"></p>
 <p>Add a link to your favorite <a href="https://www.dummies.com/">Web site</a>.
 Break up your page with a horizontal rule or two. </p>
+
+<h2>HTML Image</h2>
+<img src="graph_1.png" alt="Girl in a jacket" >
+
+
 <hr>
 <p>Finally, link to <a href="page2.html">another page</a> in your own Web site.</p>
 <!-- And add a copyright notice.-->
